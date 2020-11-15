@@ -1,7 +1,5 @@
 # Cartoonify : A tool to generate cartoonize effect on your image.<br>
 
-// ## Run main.py and upload your photos and hit enter to get the cartoonize effect on your image.</h1><br>
-
 ## Procedure and working
 <h4>To convert an image to a cartoon, multiple transformations are done.<br> 
   Firstly, an image is converted to a Grayscale image. Yes, similar to the old day’s pictures!.<br>
@@ -25,7 +23,7 @@
 9.<b>PIL</b><br>
 </h4>
 <br>
-<br>
-## I hope you will like your cartoonize image.
-## Generate pull request if you want any further changes in this project.
-# Thank You :)
+
+## I hope you will like your cartoonize image.<br>
+## Generate pull request if you want any further changes in this project.<br>
+# Thank You :) <br>
