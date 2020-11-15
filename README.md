@@ -4,22 +4,22 @@
 <h3>To show this process we have made an application using GUI window and also provided a save button. So, that the cartoonized image must get saved at a particular folder.</h3>
 <h1>LIBRARIES USED</h1>
 <h4>
-  1.<b> cv2 </b> # for image processing
-  
-2. <b>easygui </b> # to open the filebox
+1.<b>cv2</b> # for image processing
 
-3.<b> numpy </b>  # to store image
+2.<b>easygui </b> # to open the filebox
 
-4.<b> imageio</b>  # to read image stored at particular path
+3.<b>numpy</b>  # to store image
 
-5. <b>sys</b>
+4.<b>imageio</b>  # to read image stored at particular path
 
-6.<b> matplotlib.pyplot </b>
+5.<b>sys</b>
 
-7. <b>os</b>
+6.<b>matplotlib.pyplot</b>
 
-8. <b>tkinter </b>
+7.<b>os</b>
 
-9.<b> PIL</b>
+8.<b>tkinter</b>
+
+9.<b>PIL</b>
 
 </h4>
